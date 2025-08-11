@@ -28,9 +28,8 @@ Now I’m combining this operational experience with technical training to becom
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [RLCS Points Progression](https://github.com/HugoM-V/RLCS_2025_Top_8_EU_Teams/tree/main) | Analyzing RLCS 2025 Split 1 (EU) to visualize team rankings evolution | Python, pandas, matplotlib, Canva |
-| Contact Reason Classifier *(WIP)* | Mapping and analyzing customer service messages to surface key insights | Python, regex, NLP (planned) |
 | Final Bootcamp Project *(coming soon)* | Deep-dive analysis into esports careers and income patterns | SQL, pandas, Tableau |
-
+| Contact Reason Classifier *(WIP)* | Mapping and analyzing customer service messages to surface key insights | Python, regex, NLP (planned) |
 ---
 
 ## 🌐 Let's connect
