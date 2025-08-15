@@ -3,7 +3,7 @@
 I'm a former Customer Experience Manager currently transitioning into Data Analytics.  
 I’m passionate about using data to make better decisions — grounded in real-world context, user needs, and operational realities.
 
-🎯 Right now, I'm completing a full-time **Data Analytics bootcamp** at [SPICED Academy](https://www.spiced-academy.com/) in Berlin (Mar–Jun 2025), where I’m building solid foundations in:
+🎯 I've just completed a full-time **Data Analytics bootcamp** at [SPICED Academy](https://www.spiced-academy.com/) in Berlin (Mar–Jun 2025), where I built solid foundations in:
 - Python & Pandas
 - SQL & Relational Databases
 - Data Visualization (Tableau, matplotlib)
